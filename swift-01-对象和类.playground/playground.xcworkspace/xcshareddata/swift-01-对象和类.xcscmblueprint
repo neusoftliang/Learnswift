@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5F9736224BC78EBB715003C72091F0EB4EF25DA1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8D80F90292E49E9894940EF49793C62247CDAE80" : 0,
+    "5F9736224BC78EBB715003C72091F0EB4EF25DA1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6FD73A0E-579E-4055-BD85-AB923119EF04",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8D80F90292E49E9894940EF49793C62247CDAE80" : "..",
+    "5F9736224BC78EBB715003C72091F0EB4EF25DA1" : "Learnswift\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swift-01-对象和类",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swift-01-对象和类.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/neusoftliang\/Learnswift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5F9736224BC78EBB715003C72091F0EB4EF25DA1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/neusoftliang\/KUPAO.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8D80F90292E49E9894940EF49793C62247CDAE80"
+    }
+  ]
+}
